@@ -1,0 +1,202 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tags>
+  <row Id="1" TagName="zwave" Count="6" ExcerptPostId="226" WikiPostId="225" />
+  <row Id="2" TagName="antenna" Count="1" />
+  <row Id="3" TagName="testing" Count="5" ExcerptPostId="491" WikiPostId="490" />
+  <row Id="4" TagName="ocf" Count="1" ExcerptPostId="159" WikiPostId="158" />
+  <row Id="5" TagName="security" Count="41" ExcerptPostId="29" WikiPostId="28" />
+  <row Id="9" TagName="smart-home" Count="57" ExcerptPostId="21" WikiPostId="20" />
+  <row Id="10" TagName="wireless" Count="7" ExcerptPostId="182" WikiPostId="181" />
+  <row Id="11" TagName="shodan" Count="1" ExcerptPostId="16" WikiPostId="15" />
+  <row Id="14" TagName="raspberry-pi" Count="17" ExcerptPostId="39" WikiPostId="38" />
+  <row Id="17" TagName="privacy" Count="13" ExcerptPostId="43" WikiPostId="42" />
+  <row Id="18" TagName="bluetooth" Count="3" ExcerptPostId="83" WikiPostId="82" />
+  <row Id="20" TagName="google-home" Count="10" ExcerptPostId="404" WikiPostId="403" />
+  <row Id="21" TagName="chromecast" Count="2" ExcerptPostId="59" WikiPostId="58" />
+  <row Id="22" TagName="apple-tv" Count="1" />
+  <row Id="23" TagName="lpwan" Count="2" ExcerptPostId="472" WikiPostId="471" />
+  <row Id="25" TagName="definitions" Count="7" ExcerptPostId="55" WikiPostId="54" />
+  <row Id="27" TagName="kitchen-appliances" Count="2" ExcerptPostId="443" WikiPostId="442" />
+  <row Id="28" TagName="industry-4.0" Count="1" ExcerptPostId="172" WikiPostId="171" />
+  <row Id="29" TagName="voice-recognition" Count="5" ExcerptPostId="57" WikiPostId="56" />
+  <row Id="32" TagName="mqtt" Count="33" ExcerptPostId="94" WikiPostId="93" />
+  <row Id="33" TagName="https" Count="2" ExcerptPostId="1032" WikiPostId="1031" />
+  <row Id="34" TagName="protocols" Count="10" ExcerptPostId="390" WikiPostId="389" />
+  <row Id="35" TagName="communication" Count="17" ExcerptPostId="195" WikiPostId="194" />
+  <row Id="36" TagName="networking" Count="35" ExcerptPostId="253" WikiPostId="252" />
+  <row Id="37" TagName="lan" Count="2" ExcerptPostId="781" WikiPostId="780" />
+  <row Id="40" TagName="hardware" Count="21" ExcerptPostId="77" WikiPostId="76" />
+  <row Id="42" TagName="wifi" Count="16" ExcerptPostId="85" WikiPostId="84" />
+  <row Id="43" TagName="upcycling" Count="1" ExcerptPostId="80" WikiPostId="79" />
+  <row Id="45" TagName="disposal" Count="1" ExcerptPostId="92" WikiPostId="91" />
+  <row Id="46" TagName="sustainability" Count="3" ExcerptPostId="74" WikiPostId="73" />
+  <row Id="47" TagName="authentication" Count="2" ExcerptPostId="783" WikiPostId="782" />
+  <row Id="50" TagName="microcontrollers" Count="17" ExcerptPostId="311" WikiPostId="310" />
+  <row Id="51" TagName="stm32" Count="1" />
+  <row Id="52" TagName="coap" Count="2" ExcerptPostId="106" WikiPostId="105" />
+  <row Id="53" TagName="data-transfer" Count="1" ExcerptPostId="622" WikiPostId="621" />
+  <row Id="54" TagName="standards" Count="11" ExcerptPostId="218" WikiPostId="217" />
+  <row Id="55" TagName="usb" Count="1" ExcerptPostId="803" WikiPostId="802" />
+  <row Id="56" TagName="storage" Count="1" />
+  <row Id="59" TagName="web-services" Count="4" ExcerptPostId="175" WikiPostId="174" />
+  <row Id="61" TagName="gps" Count="5" ExcerptPostId="170" WikiPostId="169" />
+  <row Id="69" TagName="pebble" Count="1" ExcerptPostId="697" WikiPostId="696" />
+  <row Id="70" TagName="wemo" Count="1" />
+  <row Id="71" TagName="alexa" Count="30" ExcerptPostId="386" WikiPostId="385" />
+  <row Id="72" TagName="localisation" Count="1" />
+  <row Id="73" TagName="over-the-air-updates" Count="4" ExcerptPostId="167" WikiPostId="166" />
+  <row Id="74" TagName="safety" Count="5" ExcerptPostId="165" WikiPostId="164" />
+  <row Id="75" TagName="building-code" Count="1" ExcerptPostId="185" WikiPostId="184" />
+  <row Id="76" TagName="gsm" Count="3" />
+  <row Id="77" TagName="transportation" Count="1" />
+  <row Id="78" TagName="samsung-smartthings" Count="12" ExcerptPostId="188" WikiPostId="187" />
+  <row Id="80" TagName="beacons" Count="2" />
+  <row Id="82" TagName="arm" Count="3" ExcerptPostId="193" WikiPostId="192" />
+  <row Id="86" TagName="banana-pi" Count="1" ExcerptPostId="420" WikiPostId="419" />
+  <row Id="89" TagName="zigbee" Count="7" ExcerptPostId="493" WikiPostId="492" />
+  <row Id="90" TagName="sensors" Count="22" ExcerptPostId="210" WikiPostId="209" />
+  <row Id="91" TagName="home-connect" Count="1" ExcerptPostId="200" WikiPostId="199" />
+  <row Id="92" TagName="home-security" Count="2" ExcerptPostId="264" WikiPostId="263" />
+  <row Id="93" TagName="publish-subscriber" Count="3" ExcerptPostId="364" WikiPostId="363" />
+  <row Id="95" TagName="mirai" Count="3" ExcerptPostId="213" WikiPostId="212" />
+  <row Id="96" TagName="xmpp" Count="1" ExcerptPostId="791" WikiPostId="790" />
+  <row Id="98" TagName="domoticz" Count="3" ExcerptPostId="607" WikiPostId="606" />
+  <row Id="99" TagName="amazon-echo" Count="27" ExcerptPostId="384" WikiPostId="383" />
+  <row Id="100" TagName="flash-memory" Count="2" ExcerptPostId="620" WikiPostId="619" />
+  <row Id="101" TagName="simon" Count="1" ExcerptPostId="520" WikiPostId="519" />
+  <row Id="102" TagName="speck" Count="1" ExcerptPostId="522" WikiPostId="521" />
+  <row Id="104" TagName="actuators" Count="1" ExcerptPostId="262" WikiPostId="261" />
+  <row Id="105" TagName="philips-hue" Count="5" ExcerptPostId="378" WikiPostId="377" />
+  <row Id="107" TagName="trackr" Count="1" />
+  <row Id="108" TagName="tracking-devices" Count="3" ExcerptPostId="657" WikiPostId="656" />
+  <row Id="109" TagName="lyric-t5" Count="1" />
+  <row Id="110" TagName="energy-monitoring-systems" Count="1" />
+  <row Id="111" TagName="certifications" Count="2" ExcerptPostId="479" WikiPostId="478" />
+  <row Id="112" TagName="smart-plugs" Count="4" ExcerptPostId="779" WikiPostId="778" />
+  <row Id="114" TagName="geo-tagging" Count="2" ExcerptPostId="474" WikiPostId="473" />
+  <row Id="115" TagName="memory-cards" Count="2" ExcerptPostId="487" WikiPostId="486" />
+  <row Id="116" TagName="digital-cameras" Count="7" ExcerptPostId="489" WikiPostId="488" />
+  <row Id="117" TagName="apple-homekit" Count="1" ExcerptPostId="721" WikiPostId="720" />
+  <row Id="118" TagName="weightless" Count="1" ExcerptPostId="539" WikiPostId="538" />
+  <row Id="119" TagName="white-space-spectrum" Count="1" />
+  <row Id="122" TagName="drones" Count="1" ExcerptPostId="624" WikiPostId="623" />
+  <row Id="123" TagName="wifi-halow" Count="1" ExcerptPostId="437" WikiPostId="436" />
+  <row Id="124" TagName="ubuntu-core" Count="2" ExcerptPostId="371" WikiPostId="370" />
+  <row Id="125" TagName="snappy" Count="3" ExcerptPostId="276" WikiPostId="275" />
+  <row Id="126" TagName="package-managers" Count="1" ExcerptPostId="592" WikiPostId="591" />
+  <row Id="127" TagName="smart-toys" Count="2" ExcerptPostId="773" WikiPostId="772" />
+  <row Id="128" TagName="docker" Count="1" ExcerptPostId="719" WikiPostId="718" />
+  <row Id="129" TagName="lightwave-rf" Count="1" ExcerptPostId="285" WikiPostId="284" />
+  <row Id="130" TagName="topologies" Count="2" ExcerptPostId="711" WikiPostId="710" />
+  <row Id="131" TagName="mesh-networks" Count="3" ExcerptPostId="366" WikiPostId="365" />
+  <row Id="132" TagName="data-portability" Count="2" ExcerptPostId="1036" WikiPostId="1035" />
+  <row Id="136" TagName="wiolink" Count="1" />
+  <row Id="138" TagName="mosquitto" Count="13" ExcerptPostId="344" WikiPostId="343" />
+  <row Id="139" TagName="logitech-harmony" Count="3" ExcerptPostId="394" WikiPostId="393" />
+  <row Id="142" TagName="machine-learning" Count="2" ExcerptPostId="373" WikiPostId="372" />
+  <row Id="146" TagName="power-consumption" Count="9" ExcerptPostId="445" WikiPostId="444" />
+  <row Id="150" TagName="ac-power" Count="5" ExcerptPostId="336" WikiPostId="335" />
+  <row Id="151" TagName="linux" Count="3" ExcerptPostId="418" WikiPostId="417" />
+  <row Id="152" TagName="data-persistence" Count="1" />
+  <row Id="154" TagName="thread" Count="3" ExcerptPostId="350" WikiPostId="349" />
+  <row Id="155" TagName="wired" Count="1" ExcerptPostId="515" WikiPostId="514" />
+  <row Id="156" TagName="tp-link" Count="2" />
+  <row Id="157" TagName="ifttt" Count="6" ExcerptPostId="376" WikiPostId="375" />
+  <row Id="158" TagName="one-time-password" Count="1" ExcerptPostId="477" WikiPostId="476" />
+  <row Id="161" TagName="nest-thermostat" Count="2" ExcerptPostId="428" WikiPostId="427" />
+  <row Id="162" TagName="wink-hub" Count="1" ExcerptPostId="430" WikiPostId="429" />
+  <row Id="163" TagName="eddystone" Count="1" ExcerptPostId="392" WikiPostId="391" />
+  <row Id="164" TagName="open-source" Count="1" ExcerptPostId="618" WikiPostId="617" />
+  <row Id="165" TagName="references" Count="1" />
+  <row Id="166" TagName="web-sockets" Count="2" ExcerptPostId="495" WikiPostId="494" />
+  <row Id="172" TagName="bluetooth-low-energy" Count="4" ExcerptPostId="423" WikiPostId="422" />
+  <row Id="173" TagName="mobile-applications" Count="3" />
+  <row Id="175" TagName="artificial-intelligence" Count="1" ExcerptPostId="644" WikiPostId="643" />
+  <row Id="176" TagName="news-feed" Count="1" />
+  <row Id="177" TagName="data-mining" Count="1" />
+  <row Id="178" TagName="ant" Count="1" ExcerptPostId="449" WikiPostId="448" />
+  <row Id="179" TagName="io-homecontrol" Count="1" />
+  <row Id="180" TagName="google-assistant" Count="3" ExcerptPostId="462" WikiPostId="461" />
+  <row Id="181" TagName="biometrics" Count="1" ExcerptPostId="709" WikiPostId="708" />
+  <row Id="185" TagName="6lowpan" Count="2" ExcerptPostId="482" WikiPostId="481" />
+  <row Id="186" TagName="compression" Count="1" ExcerptPostId="485" WikiPostId="484" />
+  <row Id="187" TagName="nest-protect" Count="1" ExcerptPostId="502" WikiPostId="501" />
+  <row Id="188" TagName="pic" Count="1" ExcerptPostId="508" WikiPostId="507" />
+  <row Id="189" TagName="cryptography" Count="2" ExcerptPostId="517" WikiPostId="516" />
+  <row Id="190" TagName="batteries" Count="5" ExcerptPostId="510" WikiPostId="509" />
+  <row Id="191" TagName="openhab" Count="1" ExcerptPostId="533" WikiPostId="532" />
+  <row Id="192" TagName="microsoft-windows" Count="5" ExcerptPostId="537" WikiPostId="536" />
+  <row Id="193" TagName="wake-on-lan" Count="2" ExcerptPostId="535" WikiPostId="534" />
+  <row Id="194" TagName="mobile-data" Count="5" ExcerptPostId="661" WikiPostId="660" />
+  <row Id="195" TagName="fog-computing" Count="1" ExcerptPostId="590" WikiPostId="589" />
+  <row Id="196" TagName="openfog" Count="1" ExcerptPostId="588" WikiPostId="587" />
+  <row Id="198" TagName="united-kingdom" Count="1" ExcerptPostId="595" WikiPostId="594" />
+  <row Id="202" TagName="knx" Count="1" ExcerptPostId="574" WikiPostId="573" />
+  <row Id="204" TagName="architecture" Count="1" />
+  <row Id="205" TagName="dlna" Count="1" />
+  <row Id="206" TagName="synology" Count="1" />
+  <row Id="207" TagName="av-receivers" Count="1" />
+  <row Id="208" TagName="smart-tv" Count="1" />
+  <row Id="209" TagName="routers" Count="6" ExcerptPostId="626" WikiPostId="625" />
+  <row Id="210" TagName="norton-core" Count="1" ExcerptPostId="597" WikiPostId="596" />
+  <row Id="213" TagName="microsoft-xbox" Count="2" ExcerptPostId="630" WikiPostId="629" />
+  <row Id="214" TagName="monitoring" Count="2" ExcerptPostId="1026" WikiPostId="1025" />
+  <row Id="215" TagName="lively-medical-alert" Count="1" ExcerptPostId="632" WikiPostId="631" />
+  <row Id="216" TagName="interoperability" Count="1" ExcerptPostId="715" WikiPostId="714" />
+  <row Id="218" TagName="android-things" Count="3" ExcerptPostId="642" WikiPostId="641" />
+  <row Id="219" TagName="nfc" Count="1" ExcerptPostId="655" WikiPostId="654" />
+  <row Id="225" TagName="microphones" Count="1" ExcerptPostId="794" WikiPostId="793" />
+  <row Id="226" TagName="heart-rate-monitors" Count="1" ExcerptPostId="713" WikiPostId="712" />
+  <row Id="227" TagName="oura-ring" Count="1" ExcerptPostId="694" WikiPostId="693" />
+  <row Id="228" TagName="dlink" Count="1" ExcerptPostId="707" WikiPostId="706" />
+  <row Id="231" TagName="fitbit" Count="2" ExcerptPostId="702" WikiPostId="701" />
+  <row Id="232" TagName="cortana" Count="1" ExcerptPostId="705" WikiPostId="704" />
+  <row Id="233" TagName="smart-assistants" Count="1" ExcerptPostId="738" WikiPostId="737" />
+  <row Id="234" TagName="audio-dsp" Count="2" ExcerptPostId="745" WikiPostId="744" />
+  <row Id="235" TagName="csr-adk" Count="2" ExcerptPostId="747" WikiPostId="746" />
+  <row Id="236" TagName="dotdot" Count="1" ExcerptPostId="755" WikiPostId="754" />
+  <row Id="237" TagName="blockchains" Count="1" ExcerptPostId="777" WikiPostId="776" />
+  <row Id="238" TagName="emq" Count="2" ExcerptPostId="789" WikiPostId="788" />
+  <row Id="239" TagName="modbus" Count="1" />
+  <row Id="240" TagName="plc" Count="1" ExcerptPostId="799" WikiPostId="798" />
+  <row Id="242" TagName="smart-watches" Count="3" ExcerptPostId="917" WikiPostId="916" />
+  <row Id="243" TagName="zeromq" Count="1" ExcerptPostId="844" WikiPostId="843" />
+  <row Id="245" TagName="product-design" Count="1" ExcerptPostId="849" WikiPostId="848" />
+  <row Id="246" TagName="wearables" Count="1" />
+  <row Id="247" TagName="whitelisting" Count="2" />
+  <row Id="248" TagName="technology-growth" Count="1" />
+  <row Id="249" TagName="ip-address" Count="1" ExcerptPostId="915" WikiPostId="914" />
+  <row Id="250" TagName="nest-cam" Count="1" />
+  <row Id="252" TagName="audio" Count="1" />
+  <row Id="253" TagName="sound" Count="2" />
+  <row Id="254" TagName="amazon-dash-button" Count="1" />
+  <row Id="255" TagName="home-assistant" Count="2" ExcerptPostId="1015" WikiPostId="1014" />
+  <row Id="256" TagName="simulation" Count="1" />
+  <row Id="257" TagName="drivers" Count="2" />
+  <row Id="258" TagName="ethernet" Count="3" />
+  <row Id="259" TagName="interfacing" Count="1" ExcerptPostId="935" WikiPostId="934" />
+  <row Id="260" TagName="power-sources" Count="1" ExcerptPostId="937" WikiPostId="936" />
+  <row Id="261" TagName="smart-cars" Count="1" ExcerptPostId="1030" WikiPostId="1029" />
+  <row Id="262" TagName="rfid" Count="1" />
+  <row Id="263" TagName="edge-computing" Count="1" />
+  <row Id="264" TagName="cloud-computing" Count="3" />
+  <row Id="266" TagName="esp8266" Count="5" />
+  <row Id="267" TagName="data-over-sound" Count="1" />
+  <row Id="268" TagName="system-architecture" Count="4" ExcerptPostId="997" WikiPostId="996" />
+  <row Id="270" TagName="aws-iot" Count="3" ExcerptPostId="1034" WikiPostId="1033" />
+  <row Id="271" TagName="speech-synthesis" Count="1" />
+  <row Id="272" TagName="roost" Count="1" ExcerptPostId="1028" WikiPostId="1027" />
+  <row Id="273" TagName="lora" Count="3" />
+  <row Id="278" TagName="aws" Count="1" />
+  <row Id="279" TagName="software" Count="2" ExcerptPostId="1110" WikiPostId="1109" />
+  <row Id="280" TagName="wake-word-engines" Count="1" />
+  <row Id="281" TagName="schneider" Count="1" />
+  <row Id="282" TagName="amazon-s3" Count="1" />
+  <row Id="283" TagName="contiki" Count="2" />
+  <row Id="284" TagName="intel-edison" Count="1" ExcerptPostId="1193" WikiPostId="1192" />
+  <row Id="285" TagName="azure" Count="1" />
+  <row Id="286" TagName="ubuntu" Count="1" />
+  <row Id="287" TagName="android" Count="1" />
+  <row Id="288" TagName="ios" Count="1" />
+  <row Id="289" TagName="streaming" Count="1" />
+</tags>
